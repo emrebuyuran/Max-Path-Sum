@@ -7,7 +7,7 @@ namespace MaxPathSum
 {
     public static class Program
     {
-        private const string Input = @" 215
+        private const string Input = @"  215
                                          193 124
                                          117 237 442
                                          218 935 347 235
